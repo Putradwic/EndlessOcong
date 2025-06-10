@@ -14,7 +14,8 @@
 
 ## 🕹️ Cara Main
 
-- Buka link ini untuk memainkanya https://putradwic.github.io/CollectStar/
+- Buka link ini untuk memainkanya https://putradwic.github.io/EndlessOcong/
+- (Opsional) Zoom Out website 75% atau lebih
 - Kontrol:
     - `click canvas / Space` = Turun 
 - Hindari rintangan yang ada
